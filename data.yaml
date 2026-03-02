@@ -1,0 +1,9 @@
+# Dataset Path
+path: C:\Users\ACER\Downloads\raw_data_v2-20260302T165127Z-1-001\raw_data_v2
+
+train: C:\Users\ACER\Downloads\raw_data_v2-20260302T165127Z-1-001\raw_data_v2/images/train
+val: C:\Users\ACER\Downloads\raw_data_v2-20260302T165127Z-1-001\raw_data_v2/images/val
+test: C:\Users\ACER\Downloads\raw_data_v2-20260302T165127Z-1-001\raw_data_v2/images/test
+
+nc: 1
+names: ['pamuk']
